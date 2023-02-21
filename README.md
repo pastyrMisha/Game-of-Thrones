@@ -1,3 +1,6 @@
+Game of Thrones API (React + Redux)
+https://zvendinov.ru/got
+
 https://airbnb.io/enzyme/
 https://reactjs.org/docs/test-renderer.html — библиотека для работы с react-компонентами
 
